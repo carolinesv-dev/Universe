@@ -8,8 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "lite-server": "^2.6.1"
-  },
-  "description": ""
+  }
 }
